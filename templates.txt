@@ -17,7 +17,7 @@
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top" style="background-color: #e3f2fd;">
         <a class="navbar-brand">
             <img src="https://www.ntue.edu.tw/var/file/0/1000/img/368/footlogo.png" width="30" height="30"
-                class="d-inline-block align-top" alt="">
+                class="d-inline-block align-top" alt="Logo">
             面面俱到
         </a>
     </nav>
