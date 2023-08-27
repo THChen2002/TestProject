@@ -18,7 +18,7 @@
         <a class="navbar-brand">
             <img src="https://www.ntue.edu.tw/var/file/0/1000/img/368/footlogo.png" width="30" height="30"
                 class="d-inline-block align-top" alt="Logo">
-            面面俱到
+            面面俱到。
         </a>
     </nav>
 
